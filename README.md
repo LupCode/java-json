@@ -4,7 +4,7 @@ Can handle strings as well as streams for parsing and generating.
 Offers additional utilities such as an UTF8CharInputStream to read single UTF-8 characters from an InputStream.  
 No other libraries required.  
 
-### How to use:
+## How to use:
 ``` java
 String jsonStr = "{\"Hello World\":[{\"Test\":1.2,\"Bye\":null},345,]}";
 		
@@ -25,6 +25,6 @@ try {
 }
 ```
 
-### References:
+## References:
  - [LupCode.com](https://lupcode.com)
  - [Lup.services](https://lup.services)
