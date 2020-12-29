@@ -15,8 +15,8 @@ import java.util.Arrays;
 import com.lupcode.JSON.exceptions.JsonParseException;
 import com.lupcode.JSON.exceptions.JsonParseUnfinishedException;
 import com.lupcode.JSON.utils.LineColumnTracker;
-import com.lupcode.JSON.utils.UTF8CharInputStream;
-import com.lupcode.JSON.utils.UTF8String;
+import com.lupcode.Utilities.others.UTF8String;
+import com.lupcode.Utilities.streams.UTF8CharInputStream;
 
 /** Abstract class for every JSON class that represents a JSON type
  * @param <THIS> must be the class that extends this parent class

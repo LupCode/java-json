@@ -1,8 +1,9 @@
 # JSON API
 Robust and efficient JSON parser and generator that includes line and column tracker for error handling.  
 Can handle strings as well as streams for parsing and generating.  
-Offers additional utilities such as an UTF8CharInputStream to read single UTF-8 characters from an InputStream.  
-No other libraries required.  
+
+## Requires:
+ - [LupCode Utilities Library](https://github.com/luca-vogels/java-utilities)  
 
 ## How to use:
 ``` java
@@ -26,5 +27,5 @@ try {
 ```
 
 ## References:
- - [LupCode.com](https://lupcode.com)
- - [Lup.services](https://lup.services)
+ - [LupCode.com](https://lupcode.com)  
+ - [Lup.services](https://lup.services)  

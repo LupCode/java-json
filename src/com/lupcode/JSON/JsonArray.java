@@ -16,7 +16,7 @@ import java.util.Set;
 import com.lupcode.JSON.exceptions.JsonParseException;
 import com.lupcode.JSON.exceptions.JsonParseUnfinishedException;
 import com.lupcode.JSON.utils.LineColumnTracker;
-import com.lupcode.JSON.utils.UTF8CharInputStream;
+import com.lupcode.Utilities.streams.UTF8CharInputStream;
 
 /** Represents a JSON array
  * @author LupCode.com (Luca Vogels)

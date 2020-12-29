@@ -14,7 +14,7 @@ import java.util.Map.Entry;
 import com.lupcode.JSON.exceptions.JsonParseException;
 import com.lupcode.JSON.exceptions.JsonParseUnfinishedException;
 import com.lupcode.JSON.utils.LineColumnTracker;
-import com.lupcode.JSON.utils.UTF8CharInputStream;
+import com.lupcode.Utilities.streams.UTF8CharInputStream;
 
 import java.util.Set;
 
