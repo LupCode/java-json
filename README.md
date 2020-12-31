@@ -1,4 +1,4 @@
-# JSON API
+# Java JSON API
 Robust and efficient JSON parser and generator that includes line and column tracker for error handling.  
 Can handle strings as well as streams for parsing and generating.  
 
